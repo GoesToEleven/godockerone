@@ -13,3 +13,8 @@
 - Delete a container - at the terminal: `docker rm <terminal hash>`
 - See your images - at the terminal: `docker images`
 - Remove an image - at the terminal: `docker rmi <terminal hash>`
+
+# ChatGPT discussion
+
+This discussion can help clarify points:
+https://chat.openai.com/share/90ac4104-785d-4f0e-9074-a4f79ab76024
